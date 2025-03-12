@@ -1,0 +1,10 @@
+/home/peni/so1/proiect/2.c: In function ‘main’:
+/home/peni/so1/proiect/2.c:13:8: error: expected ‘;’ before ‘printf’
+   13 |     n=7
+      |        ^
+      |        ;
+   14 |     printf("Secventa Fibonacci pentru %d termeni este:\n", n);
+      |     ~~~~~~
+/home/peni/so1/proiect/2.c:21:1: error: expected declaration or statement at end of input
+   21 | }
+      | ^
