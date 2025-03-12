@@ -6,7 +6,7 @@ This Bash-based framework has been developed to streamline the testing process f
 
 ### 🔍 Automatic Detection & Compilation: Scans the ex_c.sh/ folder hierarchy to find and compile C source code.
 
-###⚡ Execution & Output Management: Runs the compiled binaries and stores the results in the ex_c.sh/Output/ directory.
+### ⚡ Execution & Output Management: Runs the compiled binaries and stores the results in the ex_c.sh/Output/ directory.
 
 ### ✅ Validation & Accuracy Checking: Compares exit codes and outputs of executed programs against predefined check files to verify correctness.
 
